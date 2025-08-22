@@ -11,7 +11,7 @@ The internship focused on applying deep learning techniques for image classifica
 - Built a **deep learning model** to detect and classify plant diseases using a labeled dataset of leaf images.  
 - Utilized the **Plant Pathology Dataset** from Kaggle (~186,000 images) labeled with diseases such as rust, scab, and more complex conditions.  
 - Preprocessed image data and applied **data augmentation** to improve model robustness.  
-- Leveraged architectures such as **VGG-16, ResNet, and Inception** with **transfer learning** to enhance performance.  
+- Leveraged architecture **VGG-16** with **transfer learning** to enhance performance.  
 - Evaluated model accuracy and tested predictions on sample images to ensure reliability.
 
 ### **Task 2: CIFAR-10 Object Recognition Using ResNet50**
