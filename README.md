@@ -30,5 +30,3 @@ The internship focused on applying deep learning techniques for image classifica
 - **Machine Learning:** Scikit-learn  
 - **Deep Learning:** TensorFlow, Keras  
 - **Datasets:** Kaggle (Plant Pathology, CIFAR-10)  
-
----
